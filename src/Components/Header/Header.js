@@ -1,19 +1,34 @@
 import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
+import { NavLink } from 'react-router-dom';
+import "./Header.css";
 
 const Header = () => {
+  const active={
+    fontWeight: "bold",
+    color: "red"
+  }
+  const style={ textDecoration: 'none', color: 'white' , marginLeft:'15px'}
     return (
-        <div>
-             <Navbar bg="primary" variant="dark">
+        <div className="header">
+           <Navbar bg="primary" variant="dark">
     <Container>
-    <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+      <NavLink to="/home" style={style}>
+    <Navbar.Brand >Promise Education</Navbar.Brand>
+    </NavLink>
     <Nav className="me-auto">
-      <Nav.Link href="#home">Home</Nav.Link>
-      <Nav.Link href="#features">Features</Nav.Link>
-      <Nav.Link href="#pricing">Pricing</Nav.Link>
+ <NavLink to="/home" style={style}>Home </NavLink>
+      <NavLink to="/about" style={style}>About</NavLink>
+      <NavLink to="/service" style={style}>Service</NavLink>
+      <NavLink to="/contact" style={style}>GetStart</NavLink>
     </Nav>
     </Container>
   </Navbar>
+  <div className="text-container">
+  <h1>Part-time Japanese Lessons</h1>
+     <p>Improve your Japanese speaking and conversation ability – As well as Grammar, Kanji, and anything else. Choose classes by topic.</p>
+  </div>
+ 
         </div>
     );
 };

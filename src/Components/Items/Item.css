@@ -1,0 +1,36 @@
+.items {
+  margin-top: 20px;
+}
+.title {
+  font-size: 30px;
+}
+.title-name {
+  margin-top: 20px;
+}
+.lessons-card {
+  border: 1px solid #faad3c;
+  background-color: #faad3c;
+  color: #fff;
+  padding: 5px;
+  border-radius: 10px 10px 0 0;
+  padding: 10px;
+}
+.price-card {
+  background-color: #fdf6f6;
+  color: black;
+  border-radius: 10px;
+  position: relative;
+  bottom: 5px;
+  padding: 10px;
+}
+.card-price {
+  width: 75%;
+  margin: auto;
+}
+small {
+  color: #a9a9a9;
+}
+.corse-price {
+  padding: 20px;
+}
+

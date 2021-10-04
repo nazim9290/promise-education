@@ -1,0 +1,33 @@
+.about {
+  margin: 20px;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.font-icon {
+  color: #faad3c;
+}
+.icon div {
+  width: 300px;
+}
+
+.icon-container {
+  background-color: #f4f4f4;
+  border-radius: 20px;
+  width: 300px;
+  margin: auto;
+  padding: 20px;
+}
+.about-text {
+  text-align: justify;
+}
+.box {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Beginner",
+    "price": 2500,
+    "title": "Practical Japanese for Beginners",
+    "phone": "1-770-736442",
+    "img": "https://cotoacademy.com/app/uploads/2021/03/34628446753_621d48f5af_c-799x400.jpg",
+    "description": "You will start by learning Japanese skills for everyday use. Since you'll be studying vocabulary for times and places, as well as basic grammar, you'll be able to create simple sentences by yourself.",
+    "level": "BEGINNER (JLPT N5)",
+    "next": "Upper Beginner"
+  },
+  {
+    "id": 2,
+    "name": "Beginner",
+    "price": 3000,
+    "title": "Practical Japanese for Beginners",
+    "phone": "1-770-736442",
+    "img": "https://cotoacademy.com/app/uploads/2021/03/34628446753_621d48f5af_c-799x400.jpg",
+    "description": "You will start by learning Japanese skills for everyday use. Since you'll be studying vocabulary for times and places, as well as basic grammar, you'll be able to create simple sentences by yourself.",
+    "level": "BEGINNER (JLPT N5)",
+    "next": "Upper Beginner"
+  },
+  {
+    "id": 3,
+    "name": "Beginner",
+    "price": 3000,
+    "title": "Practical Japanese for Beginners",
+    "phone": "1-770-736442",
+    "img": "https://cotoacademy.com/app/uploads/2021/03/34628446753_621d48f5af_c-799x400.jpg",
+    "description": "You will start by learning Japanese skills for everyday use. Since you'll be studying vocabulary for times and places, as well as basic grammar, you'll be able to create simple sentences by yourself.",
+    "level": "BEGINNER (JLPT N5)",
+    "next": "Upper Beginner"
+  },
+  {
+    "id": 4,
+    "name": "Beginner",
+    "price": 3000,
+    "title": "Practical Japanese for Beginners",
+    "phone": "1-770-736442",
+    "img": "https://cotoacademy.com/app/uploads/2021/03/34628446753_621d48f5af_c-799x400.jpg",
+    "description": "You will start by learning Japanese skills for everyday use. Since you'll be studying vocabulary for times and places, as well as basic grammar, you'll be able to create simple sentences by yourself.",
+    "level": "BEGINNER (JLPT N5)",
+    "next": "Upper Beginner"
+  },
+  {
+    "id": 5,
+    "name": "Beginner",
+    "title": "Practical Japanese for Beginners",
+    "phone": "1-770-736442",
+    "img": "https://cotoacademy.com/app/uploads/2021/03/34628446753_621d48f5af_c-799x400.jpg",
+    "description": "You will start by learning Japanese skills for everyday use. Since you'll be studying vocabulary for times and places, as well as basic grammar, you'll be able to create simple sentences by yourself.",
+    "level": "BEGINNER (JLPT N5)",
+    "next": "Upper Beginner"
+  },
+  {
+    "id": 6,
+    "name": "Beginner",
+    "price": 3000,
+    "title": "Practical Japanese for Beginners",
+    "phone": "1-770-736442",
+    "img": "https://cotoacademy.com/app/uploads/2021/03/34628446753_621d48f5af_c-799x400.jpg",
+    "description": "You will start by learning Japanese skills for everyday use. Since you'll be studying vocabulary for times and places, as well as basic grammar, you'll be able to create simple sentences by yourself.",
+    "level": "BEGINNER (JLPT N5)",
+    "next": "Upper Beginner"
+  },
+  {
+    "id": 7,
+    "name": "Beginner",
+    "price": 3000,
+    "title": "Practical Japanese for Beginners",
+    "phone": "1-770-736442",
+    "img": "https://cotoacademy.com/app/uploads/2021/03/34628446753_621d48f5af_c-799x400.jpg",
+    "description": "You will start by learning Japanese skills for everyday use. Since you'll be studying vocabulary for times and places, as well as basic grammar, you'll be able to create simple sentences by yourself.",
+    "level": "BEGINNER (JLPT N5)",
+    "next": "Upper Beginner"
+  },
+  {
+    "id": 8,
+    "name": "Beginner",
+    "price": 3000,
+    "title": "Practical Japanese for Beginners",
+    "phone": "1-770-736442",
+    "img": "https://cotoacademy.com/app/uploads/2021/03/34628446753_621d48f5af_c-799x400.jpg",
+    "description": "You will start by learning Japanese skills for everyday use. Since you'll be studying vocabulary for times and places, as well as basic grammar, you'll be able to create simple sentences by yourself.",
+    "level": "BEGINNER (JLPT N5)",
+    "next": "Upper Beginner"
+  },
+  {
+    "id": 9,
+    "name": "Beginner",
+    "price": 3000,
+    "title": "Practical Japanese for Beginners",
+    "phone": "1-770-736442",
+    "img": "https://cotoacademy.com/app/uploads/2021/03/34628446753_621d48f5af_c-799x400.jpg",
+    "description": "You will start by learning Japanese skills for everyday use. Since you'll be studying vocabulary for times and places, as well as basic grammar, you'll be able to create simple sentences by yourself.",
+    "level": "BEGINNER (JLPT N5)",
+    "next": "Upper Beginner"
+  }
+]
