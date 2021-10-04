@@ -24,7 +24,7 @@ const Items = (props) => {
         <div className="price-card">
             <div className="corse-price">
         <small>corse price</small>
-        <h2>1800</h2></div>
+        <h2>{price}</h2></div>
         <small>FREE CONSULTATION</small>
         </div>
     </div>

@@ -4,10 +4,6 @@ import { NavLink } from 'react-router-dom';
 import "./Header.css";
 
 const Header = () => {
-  const active={
-    fontWeight: "bold",
-    color: "red"
-  }
   const style={ textDecoration: 'none', color: 'white' , marginLeft:'15px'}
     return (
         <div className="header">

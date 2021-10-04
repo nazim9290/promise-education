@@ -1,9 +1,11 @@
 import React from 'react';
+import gif from "../../images/404.gif";
 
 const NotFound = () => {
+    
     return (
         <div>
-            <h1>This page is not found 404</h1>
+            <img src={gif} alt="" />
         </div>
     );
 };
