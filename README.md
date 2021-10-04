@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Promise Education 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with React [Promicse Education](https://educatinal-web-react.netlify.app/).
 
 ## Available Scripts
 
