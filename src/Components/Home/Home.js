@@ -10,8 +10,7 @@ const Home = () => {
     )},[])
     return (
         <div className="home">
-            {
-                items.map(item=><Items key={item.id} item={item}/>)
+            {items.filter((item,itemindex)=>itemindex<4).map(item=><Items key={item.id} item={item}/>)
             }
         </div>
     );

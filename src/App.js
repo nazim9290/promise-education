@@ -10,14 +10,15 @@ import GetStart from './Components/Getstart/GetStart';
 import Header from './Components/Header/Header';
 import Home from './Components/Home/Home';
 import NotFound from './Components/NotFound/NotFound';
-import Service from './Components/Service/Service';
+import Service from './Components/ServiceItem/Service';
 
 function App() {
   return (
     <div className="App">
       <Router>
-        <Header/>
+      <Header/>
      <Switch>
+    
           <Route path="/home">
             <Home/>
           </Route>

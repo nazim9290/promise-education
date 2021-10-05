@@ -41,7 +41,7 @@ const GetStart = () => {
           <Form.Control.Feedback>Looks good!</Form.Control.Feedback>
         </Form.Group>
         <Form.Group as={Col} md="4" controlId="validationCustomUsername">
-          <Form.Label>Username</Form.Label>
+          <Form.Label>Twitter</Form.Label>
           <InputGroup hasValidation>
             <InputGroup.Text id="inputGroupPrepend">@</InputGroup.Text>
             <Form.Control
@@ -87,12 +87,7 @@ const GetStart = () => {
   </FloatingLabel>
       </Row>
       <Form.Group className="mb-3">
-        <Form.Check
-          required
-          label="Agree to terms and conditions"
-          feedback="You must agree before submitting."
-          feedbackType="invalid"
-        />
+     
       </Form.Group>
       <Button type="submit">Submit form</Button>
     </Form>

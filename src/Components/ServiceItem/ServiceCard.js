@@ -8,10 +8,10 @@ const ServiceCard = (props) => {
     return (
         <div>
             <Card>
-  <Card.Img variant="top" src={img} />
-  <Card.Body>
+  <Card.Img variant="top" src={img} height="200" />
+  <Card.Body className="card-bodys">
     <Card.Title>{title}</Card.Title>
-    <Card.Text>
+    <Card.Text style={{height:"100px", overFlow:"hidden"}}>
       {description}
     </Card.Text>
     <div className="card-price">
@@ -27,7 +27,7 @@ const ServiceCard = (props) => {
         <small>FREE CONSULTATION</small>
         </div>
     </div>
-    <Button variant="primary">Enrol Now</Button>
+    <Button variant="primary" className="mt-3">Enrol Now</Button>
   </Card.Body>
 </Card>
         </div>
